@@ -12,7 +12,7 @@
 Add this to your package's pubspec.yaml file:
 
 ```yaml
-flappy_ponix_package:
+flappy_ponix:
   git:
     url: https://gitlab.com/poapper-inc/flappy-ponix.git
 ```
