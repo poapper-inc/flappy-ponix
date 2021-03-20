@@ -14,7 +14,7 @@ Add this to your package's pubspec.yaml file:
 ```yaml
 flappy_ponix:
   git:
-    url: https://gitlab.com/poapper-inc/flappy-ponix.git
+    url: https://github.com/poapper-inc/flappy-ponix.git
 ```
 
 ### 2. Install it
